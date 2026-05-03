@@ -1,0 +1,5 @@
+Model saved to: models/uit_shield_model.joblib
+Training rows: 58
+Labels: phishing, safe, spam
+Report saved to: models/training_report.json
+
